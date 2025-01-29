@@ -1,8 +1,8 @@
 <h1 align="center"> 1er Desafio Oracle </h1>
 
-\## 📁 Acceso al proyecto
+📁 Acceso al proyecto
+<h3>Indicaciones para abrir el proyecto</h3>
 
-**Indica cómo se puede descargar o acceder al código fuente del proyecto, ya sea proyecto inicial o final**
 
 \## 🛠️ Abre y ejecuta el proyecto
 
